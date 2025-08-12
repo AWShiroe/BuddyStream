@@ -11,3 +11,7 @@ Goals:
 The first two things to attain are low latency and at least 1080p on 60 fps. 50 fps are probably also gonna be fine.
 
 Of course we can't forget about the security. Well we are going to use zerotier-one while developing. I would really like to develop an inapp soulution in the future. 
+
+----------
+Update: I found out about WebRTC. Problem solved.
+
